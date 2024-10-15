@@ -1,0 +1,6 @@
+123@gmail.com
+123@gmail.com:123
+123@gmail.com;123
+username
+username:username
+username;username
