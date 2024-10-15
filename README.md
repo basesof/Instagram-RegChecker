@@ -4,7 +4,7 @@
 
 THIS PROGRAM IS NOT CREATED FOR PAID DISTRIBUTION
 
-                      how to get started?
+how to get started?
 
 1. select the proxy type and proxy file "Select Proxy File"
 
@@ -13,7 +13,7 @@ THIS PROGRAM IS NOT CREATED FOR PAID DISTRIBUTION
 3. press start and wait for the results in the folder with the checker
 
 
-                      Possible Questions:
+Possible Questions:
 
 1.Where can I get the checker program? Look for it in the "Releases" section: Releases.
 https://github.com/basesof/Instagram-RegChecker/releases/download/instagramregchecker/InstagramRegChecker.exe
