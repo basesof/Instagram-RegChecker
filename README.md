@@ -25,3 +25,7 @@ Your antivirus or firewall may be blocking requests. Try disabling it and also c
 3. why after the 5th attempt the login was recorded as bad?
 
 a login or email may be spammed with requests, to avoid the program freezing, filters have been made that will record the login as bad if they have received 5 replies indicating that the login is spammed
+
+good job everyone
+
+My Contact: https://t.me/basesof
